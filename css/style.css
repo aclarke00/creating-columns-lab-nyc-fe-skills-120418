@@ -47,20 +47,22 @@ img:hover {
 }
 
 .column {
-  display: 
   width: 31%;
   float: left;
 }
 
 .small {
-  
+  width: 100%;
+  height: 100%;
 }
 
-.med {
-  
+.medium {
+  width: 200%;
+  height: 200%;
 }
 
 .large {
-  
+  width: 300%;
+  height: 300%;
 }
 
