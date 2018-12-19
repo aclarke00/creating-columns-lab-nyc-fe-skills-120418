@@ -49,6 +49,7 @@ img:hover {
 .column {
   display: 
   width: 31% ;
+  float: left;
 }
 
 .small {
